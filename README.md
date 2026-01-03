@@ -5,7 +5,7 @@ A simple Bubble sort implementation in Ruby. Two different looping implementatio
 ## Usage
 ```bash
 # [4, 3, 78, 2, 0, 2] prints this array sorted (once for each implementation)
-./bin/caesar_cipher
+./bin/bubble_sort
 ```
 
 ## Setup
