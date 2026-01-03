@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+p bubble_sort1([4, 3, 78, 2, 0, 2])
+p bubble_sort2([4, 3, 78, 2, 0, 2])
