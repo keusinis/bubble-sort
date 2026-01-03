@@ -2,4 +2,6 @@
 
 source "https://rubygems.org"
 
+gem "ruby-lsp", require: false
+
 gem "rubocop", "~> 1.82", require: false
